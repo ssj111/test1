@@ -9,5 +9,5 @@ package com.sss.entity;
  */
 public class Preson {
     private String id;
-    private String name;
+    private String name2;
 }
